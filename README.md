@@ -1,5 +1,5 @@
 # Student Portal
-**Live Demo:** https://https://rahultharun5-ship-it.github.io/student-portal/
+**Live Demo:** https://rahultharun5-ship-it.github.io/student-portal/
 
 A simple web application to manage student records. Made this as my college project for BCA.
 
